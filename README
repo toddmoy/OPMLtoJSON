@@ -1,0 +1,2 @@
+Usage: 
+    ./OPMLtoJSON.rb <path/to/inputfile.opml> > <path/to/outputfile.json>
